@@ -58,7 +58,7 @@ angular.module(APPLICATION_NAME,
             })
 
             // Each tab has its own nav history stack:
-            .state('ionic-proto.dash', {
+            .state('ionic-proto.home', {
                 url: '/home',
                 views: {
                     'content': {
