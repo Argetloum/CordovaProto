@@ -6,4 +6,4 @@
 - Run `npm install`
 - Run `bower install`
 - Run `gulp`
-- Run Ionic commands, like: `ionic platform add ios`, then `ionic build ios`, and then `ionic emulate ios` or `ionic server`
+- Run Ionic commands, like: `ionic platform add ios`, then `ionic build ios`, and then `ionic emulate ios` or `ionic serve`
